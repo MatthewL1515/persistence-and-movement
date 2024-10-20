@@ -1,0 +1,4 @@
+# Reflection Page
+
+## [Persistence and Movement Reflection](https://avenues.instructure.com/courses/7407/assignments/120618)
+One challenge I had was identifying how and where to increase the size of the white circles. At first, I'd forgotten that I needed to assign the 'size' variable a value within the setup() function, so I kept receiving error codes until I realized why. I also had to remember that the 'size = size + 1' went within the draw() function. The relationship between tracking variables like size and randomness is clearer now. I now realize how randomness and certain variables (like size) can be used to control parts of the sketch and make it dynamic. I'm proud of how I was able to make the sketch include these new variables while maintaining a clean code that fulfilled the requirements of the assignment.
